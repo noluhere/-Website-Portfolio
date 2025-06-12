@@ -50,8 +50,8 @@ Designed and developed my agency site using WordPress and Elementor. Optimized f
 
 # Skills & Tools
 - WordPress · Elementor · WPBakery  
-- HTML · CSS · JavaScript
+- HTML5· CSS3 · JavaScript 
 - Google Search Console · Google Analytics  
 - SEMrush · Ahrefs · Ubersuggest  
-- Canva · Figma (basic) · GitHub  
+- Canva · Figma (basic) · Git
 - Copywriting · UX writing · Metadata optimization
