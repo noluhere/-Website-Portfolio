@@ -7,24 +7,22 @@ Role: SEO Specialist & UI Consultant
 Overview:
 Improved page structure, fixed technical SEO errors, and collaborated on design updates to improve user experience. Optimized site metadata and improved page loading times.
 
-#🔹 [almaegroup.co.za](http://almaegroup.co.za) *(Currently Live)*  
+# [almaegroup.co.za](http://almaegroup.co.za) *(Currently Live)*  
 **Role:** SEO Strategist & Frontend Enhancer  
 **Overview:**  
 Performed keyword analysis, optimized service pages, and implemented internal linking. Provided layout suggestions for clearer service hierarchy and stronger calls to action.
 
 
-🔹 [kcjbatteries.co.za](http://kcjbatteries.co.za) *(Currently Live)*  
+# [kcjbatteries.co.za](http://kcjbatteries.co.za) *(Currently Live)*  
 **Role:** Website Manager  
 **Overview:**  
 Managed site updates, improved product presentation, and added structured SEO content. Also worked on responsiveness and user journey improvements for paid ad campaigns.
 
 
-🔹 [adultinstitute.co.za](http://adultinstitute.co.za) *(Currently Live)*  
+# [adultinstitute.co.za](http://adultinstitute.co.za) *(Currently Live)*  
 **Role:** UI/UX & SEO Consultant  
 **Overview:**  
 Revised design layout for better readability and lead conversion. Updated key SEO tags, structured blog content, and ensured mobile responsiveness.
-
----
 
 #🛠️ Websites I Built (Now Offline)
 
