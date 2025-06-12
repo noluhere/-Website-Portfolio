@@ -2,12 +2,12 @@ Welcome to my website portfolio. I specialize in SEO, UI improvements, and conte
 
 Websites I Have Managed & Optimized (UI + SEO)
 
-🔹[haccsa.com](http://haccsa.com) *(Currently Live)*
+#🔹[haccsa.com](http://haccsa.com) *(Currently Live)*
 Role: SEO Specialist & UI Consultant  
 Overview:
 Improved page structure, fixed technical SEO errors, and collaborated on design updates to improve user experience. Optimized site metadata and improved page loading times.
 
-🔹 [almaegroup.co.za](http://almaegroup.co.za) *(Currently Live)*  
+#🔹 [almaegroup.co.za](http://almaegroup.co.za) *(Currently Live)*  
 **Role:** SEO Strategist & Frontend Enhancer  
 **Overview:**  
 Performed keyword analysis, optimized service pages, and implemented internal linking. Provided layout suggestions for clearer service hierarchy and stronger calls to action.
