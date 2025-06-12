@@ -2,7 +2,7 @@ Welcome to my website portfolio. I specialize in SEO, UI improvements, and conte
 
 Websites I Have Managed & Optimized (UI + SEO)
 
-#🔹[haccsa.com](http://haccsa.com) *(Currently Live)*
+# [haccsa.com](http://haccsa.com) *(Currently Live)*
 Role: SEO Specialist & UI Consultant  
 Overview:
 Improved page structure, fixed technical SEO errors, and collaborated on design updates to improve user experience. Optimized site metadata and improved page loading times.
@@ -26,12 +26,12 @@ Revised design layout for better readability and lead conversion. Updated key SE
 
 #🛠️ Websites I Built (Now Offline)
 
-🔹# *luliboproject.org* *(No longer live)*  
+# *luliboproject.org* *(No longer live)*  
 **Role:** Website Designer & Developer  
 **Overview:**  
 Built a clean, storytelling-driven site for a nonprofit. Included donation and flipbook integration as well as impact storytelling for youth-led projects.
 
-🔹# *southernsurburbsinstallers.co.za* *(No longer live)*  
+# *southernsurburbsinstallers.co.za* *(No longer live)*  
 **Role:** Web Developer & Copywriter  
 **Overview:**  
 Created a local business site from scratch. Focused on service area pages, keyword targeting linking to their Google Business profile, and persuasive service descriptions to improve local visibility.
